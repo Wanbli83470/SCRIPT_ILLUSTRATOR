@@ -1,0 +1,1 @@
+﻿var docRef = app.activeDocument;var docWidth = docRef.widthvar docHeight = docRef.heightalert("le document mesure " +  docWidth*0.0352778 + " centimètre de largeur");alert("le document mesure " +  docHeight*0.0352778 + " centimètre de hauteur");
